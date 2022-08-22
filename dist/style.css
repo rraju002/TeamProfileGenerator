@@ -3,17 +3,22 @@
 }
 
 :root {
-    --primary: lightslategray;
-    --secondary: white;
+    --primary: white;
+    --secondary: #37474f;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background:url('../images/background\ image.jpeg') no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
 }
 
 #navbar {
-    background-color: var(--primary);
-    color: var(--secondary);
+    background: linear-gradient(#2b5876, #4e4376);
+    color: var(--primary);
     font-size: 50px;
 }
 
@@ -23,8 +28,8 @@ body {
 
 
 .card-header {
-    background-color: var(--primary);
-    color: var(--secondary);
+    background: linear-gradient(#2b5876, #4e4376);
+    color: var(--primary);
 }
 
 .card-body {
@@ -33,7 +38,7 @@ body {
 }
 
 .container {
-    margin: 100px auto;
+    margin: 85px auto;
     justify-content: space-evenly;
     display: flex;
     
