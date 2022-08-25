@@ -30,11 +30,17 @@ body {
 .card-header {
     background: linear-gradient(#2b5876, #4e4376);
     color: var(--primary);
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .card-body {
     background-color: var(--secondary);
     color: var(--primary);
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .container {
