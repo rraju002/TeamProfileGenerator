@@ -20,6 +20,8 @@ View walk through video here
 
 ![Untitled_ Aug 25, 2022 1_37 PM (1)](https://user-images.githubusercontent.com/105147266/186767567-01c686b1-89e9-47d4-b4e9-89d65f175d0c.gif)
 
+<img width="1680" alt="Screen Shot 2022-08-25 at 2 11 04 PM" src="https://user-images.githubusercontent.com/105147266/186769616-8432d453-fa02-4178-9abf-867cda6f5bc8.png">
+
 
 ## Contributing 
 Rhowen Raju
