@@ -25,7 +25,7 @@ View walk through video here
 Rhowen Raju
 
 ## Tests
-Run `node index.js` to run Jest for tests on constructors. 
+Run `node index.js`  
 
 ## Questions
 If you have any questions about this project, please contact me at rraju002@ucr.edu
