@@ -9,6 +9,7 @@ const Intern = require('./lib/Intern');
 // node modules 
 const fs = require('fs'); 
 const inquirer = require('inquirer');
+const path = require ('path'); 
 
 // team array
 const teamArray = []; 
